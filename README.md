@@ -1,4 +1,4 @@
-<a href=https://onedrive.live.com/view.aspx?resid=2D9FB42CCE997022!453&ithint=file%2cpptx&authkey=!AKI_4iet3SAE1xk>Riskanalys</a>
+<a href=https://onedrive.live.com/view.aspx?resid=2D9FB42CCE997022!453&ithint=file%2cpptx&authkey=!AKI_4iet3SAE1xk > Riskanalys</a>
 
 Härdning:
 
