@@ -1,6 +1,6 @@
 Härdning:
 
-Senaste versionen av LAMP-stacken.
+Senaste versionen av <a href=https://en.wikipedia.org/wiki/LAMP_(software_bundle)>LAMP-stacken</a>.
 
 Fail-2-ban.
 
