@@ -1,3 +1,5 @@
+<a href=https://onedrive.live.com/view.aspx?resid=2D9FB42CCE997022!453&ithint=file%2cpptx&authkey=!AKI_4iet3SAE1xk>Riskanalys</a>
+
 Härdning:
 
 Senaste versionen av <a href=https://en.wikipedia.org/wiki/LAMP_(software_bundle)>LAMP-stacken</a>.
